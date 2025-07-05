@@ -8,7 +8,8 @@ function App() {
     <Router>
       <main className="bg-gray-900 text-white min-h-screen font-sans">
         <nav className="bg-gray-800 px-6 py-4 shadow-md flex justify-between items-center">
-          <h1 className="text-lg font-bold">RISWAN.</h1>
+          <h1 className="text-lg font-bold"><h1>Riswan Fachrezy - Portofolio</h1>
+</h1>
           <ul className="flex gap-6 text-sm">
             <li><Link to="/" className="hover:text-indigo-400">Home</Link></li>
             <li><Link to="/projects" className="hover:text-indigo-400">Projects</Link></li>
